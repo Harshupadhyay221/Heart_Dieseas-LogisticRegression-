@@ -8,7 +8,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection a
 
 ## Dataset
 
-The algorithm uses the [Heart Disease UCI dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) from the UCI Machine Learning Repository. This dataset contains various attributes such as age, sex, cholesterol levels, blood pressure, and other medical measurements, along with a target variable indicating the presence or absence of heart disease.
+The algorithm uses the [Heart Disease UCI dataset](https://www.kaggle.com/datasets/harsh221upadhyay/heart-dataset)) from the UCI Machine Learning Repository. This dataset contains various attributes such as age, sex, cholesterol levels, blood pressure, and other medical measurements, along with a target variable indicating the presence or absence of heart disease.
 
 ## Dependencies
 
