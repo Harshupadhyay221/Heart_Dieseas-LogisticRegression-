@@ -1,6 +1,6 @@
 # Heart Disease Prediction Algorithm
 
-This repository contains code for a machine learning algorithm that predicts the likelihood of heart disease in patients using logistic regression.
+This repository contains code for a machine learning algorithm that predicts the likelihood of patients using logistic regression.
 
 ## Overview
 
